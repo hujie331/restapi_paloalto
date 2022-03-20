@@ -15,7 +15,7 @@ payload={}
 headers = {
   'Accept': 'application/json',
   'Content-Type': 'application/xml',
-  'Authorization': 'Basic amh1MTpIVWppZUAyMDIyMDIyNw==',
+  'Authorization': 'Basic ad_credentials_md5',
   'Cookie': 'PHPSESSID=1013d8d275427d33c87d7f7389209066'
 }
 
